@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=150&section=header"/>
-
-## 👋 Olá! eu sou o Gustavo Wustemberg
+## Olá! eu sou o Gustavo Wustemberg
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=238972&center=true&vCenter=true&width=1000&lines=Hello%2C+My+name+is+Gustvo+Wustemberg+;I'm+20+years+old;I'm+from+Brazil%2C+SP;IWelcome!)](https://github.com/GustavoWustemberg)
 
@@ -101,5 +99,3 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustavoWustemberg}/count.svg" /></p> 
 <br>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=150&section=footer"/>
