@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=238972&center=true&vCenter=true&width=1000&lines=Hello%2C+My+name+is+Gustvo+Wustemberg+;I'm+20+years+old;I'm+from+Brazil%2C+SP;Welcome!)](https://github.com/GustavoWustemberg)
 
 <div align="center">
-  <a href="https://github.com/Gustavo">
+  <a href="https://github.com/GustavoWustemberg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoWustemberg&show_icons=true&theme=dracula&i&show_icons=true&include_all_commits=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoWustemberg&theme=dracula&hide_border=true&layout=compact&langs_count=10"/>
 </div>
