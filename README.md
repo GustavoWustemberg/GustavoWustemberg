@@ -7,8 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoWustemberg&show_icons=true&theme=dracula&i&show_icons=true&include_all_commits=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoWustemberg&theme=dracula&hide_border=true&layout=compact&langs_count=10"/>
 </div>
- 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GustavoWustemberg&theme=darcula&hide_border=true)
 
 <div>
  <table>
