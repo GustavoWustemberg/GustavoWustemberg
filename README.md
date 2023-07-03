@@ -78,10 +78,10 @@
 
 <!-- bancos de dados -->
 
-<table>
+<table style="justfy-content:center">
           <thead>
             <tr>
-              <th colspan="5">Banco de dados:</th>
+              <th colspan="2">Banco de dados:</th>
             </tr>
           </thead>
         <tbody>
