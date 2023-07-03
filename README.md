@@ -9,89 +9,108 @@
 </div>
 
 <div>
- <table>
-  <thead>
-    <tr>
-      <th colspan="3">Habilidades</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <!-- Tabela Front-end -->
-        <table>
-          <thead>
-            <tr>
-              <th colspan="5">Front-End</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td><img align="center" alt="Gustavo-HTML" height="34" width="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
-              <td><img align="center" alt="Gustavo-CSS" height="34" width="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
-              <td><img align="center" alt="Gustavo-Js" height="34" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></td>
-              <td><img align="center" alt="Gustavo-React" height="34" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></td>
-              <td><img align="center" alt="Gustavo-PHP" height="34" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
-      <td>
-        <!-- Tabela Back-end -->
-        <table>
-          <thead>
-            <tr>
-              <th colspan="5">Back-End</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td><img align="center" alt="Gustavo-NodeJs" height="34" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"></td>
-              <td><img align="center" alt="Gustavo-Ts" height="34" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></td>
-              <td><img align="center" alt="Gustavo-Ruby" height="34" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"></td>
-              <td><img align="center" alt="Gustavo-Python" height="34" width="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
-              <td><img align="center" alt="Gustavo-C#" height="34" width="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
-      <td>
+  <table>
+    <thead>
+      <tr>
+        <th colspan="4">Habilidades</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <!-- Tabela Front-end -->
+          <table>
+            <thead>
+              <tr>
+                <th colspan="5">Front-End</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><img align="center" alt="Gustavo-HTML" height="34" width="34"
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
+                <td><img align="center" alt="Gustavo-CSS" height="34" width="34"
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
+                <td><img align="center" alt="Gustavo-Js" height="34" width="34"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></td>
+                <td><img align="center" alt="Gustavo-React" height="34" width="34"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></td>
+                <td><img align="center" alt="Gustavo-PHP" height="34" width="34"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+        <td>
+          <!-- Tabela Back-end -->
+          <table>
+            <thead>
+              <tr>
+                <th colspan="5">Back-End</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><img align="center" alt="Gustavo-NodeJs" height="34" width="34"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"></td>
+                <td><img align="center" alt="Gustavo-Ts" height="34" width="34"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></td>
+                <td><img align="center" alt="Gustavo-Ruby" height="34" width="34"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"></td>
+                <td><img align="center" alt="Gustavo-Python" height="34" width="34"
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+                </td>
+                <td><img align="center" alt="Gustavo-C#" height="34" width="34"
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
         <!-- Tabela Ferramentas -->
-        <table>
-          <thead>
-            <tr>
-              <th colspan="5">Ferramentas:</th>
-            </tr>
-          </thead>
-        <tbody>
-            <tr>
-              <td align="center"><img alt="Gustavo-Git" height="34" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></td>
-              <td align="center"><img alt="Gustavo-Figma" height="34" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></td>
-              <td align="center"><img alt="Gustavo-Docker" height="34" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></td>
-              <td align="center"><img alt="Gustavo-VScode" height="34" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></td>
-              <td align="center"><img alt="Gustavo-GitHub" height="34" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></td>
-            </tr>
-          </tbody>
-        </table>
- </table>
-</div>
-
-<!-- bancos de dados -->
-
-<table style="justfy-content:center">
-          <thead>
-            <tr>
-              <th colspan="2">Banco de dados:</th>
-            </tr>
-          </thead>
-        <tbody>
-            <tr>
-              <td><img align="center" alt="Gustavo-MySQL" height="34" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></td>
-              <td><img align="center" alt="Gustavo-PostgreSQL" height="34" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"></td>
-            </tr>
-          </tbody>
-        </table>
- </table>
+        <td>
+          <table>
+            <thead>
+              <tr>
+                <th colspan="5">Ferramentas:</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="center"><img alt="Gustavo-Git" height="34" width="34"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></td>
+                <td align="center"><img alt="Gustavo-Figma" height="34" width="34"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></td>
+                <td align="center"><img alt="Gustavo-Docker" height="34" width="34"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></td>
+                <td align="center"><img alt="Gustavo-VScode" height="34" width="34"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></td>
+                <td align="center"><img alt="Gustavo-GitHub" height="34" width="34"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+        <td>
+          <table>
+            <thead>
+              <tr>
+                <th colspan="2">Banco de dados:</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><img align="center" alt="Gustavo-MySQL" height="34" width="34"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></td>
+                <td><img align="center" alt="Gustavo-PostgreSQL" height="34" width="34"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ##
@@ -100,17 +119,17 @@
 <img src='https://github-profile-trophy.vercel.app/?username=GustavoWustemberg&theme=onestar&no-bg=true'/>
 </p>
 
-<div align="center"> 
+<div align="center">
   <a href="https://www.instagram.com/degustawinho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gustavowustemberg14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-augusto-wustemberg-40a72421a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
+
   ![Snake animation](https://github.com/GustavoWustemberg/GustavoWustemberg/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustavoWustemberg}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustavoWustemberg}/count.svg" /></p>
 <br>
 </div>
