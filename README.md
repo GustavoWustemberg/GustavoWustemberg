@@ -123,9 +123,6 @@
   <a href="https://www.instagram.com/degustawinho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gustavowustemberg14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-augusto-wustemberg-40a72421a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  ![Snake animation](https://github.com/GustavoWustemberg/GustavoWustemberg/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 <div align="center">
