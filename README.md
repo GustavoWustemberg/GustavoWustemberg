@@ -46,7 +46,7 @@
           <table>
             <thead>
               <tr>
-                <th colspan="5">Back-End</th>
+                <th colspan="4">Back-End</th>
               </tr>
             </thead>
             <tbody>
@@ -55,8 +55,8 @@
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"></td>
                 <td><img align="center" alt="Gustavo-Ts" height="34" width="34"
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></td>
-                <td><img align="center" alt="Gustavo-Ruby" height="34" width="34"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"></td>
+<!--                 <td><img align="center" alt="Gustavo-Ruby" height="34" width="34"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"></td> -->
                 <td><img align="center" alt="Gustavo-Python" height="34" width="34"
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
                 </td>
