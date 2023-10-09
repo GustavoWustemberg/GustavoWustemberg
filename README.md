@@ -72,7 +72,7 @@
           <table>
             <thead>
               <tr>
-                <th colspan="5">Ferramentas:</th>
+                <th colspan="4">Ferramentas:</th>
               </tr>
             </thead>
             <tbody>
@@ -83,8 +83,8 @@
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></td>
                 <td align="center"><img alt="Gustavo-Docker" height="34" width="34"
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></td>
-                <td align="center"><img alt="Gustavo-VScode" height="34" width="34"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></td>
+<!--                 <td align="center"><img alt="Gustavo-VScode" height="34" width="34"
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></td> -->
                 <td align="center"><img alt="Gustavo-GitHub" height="34" width="34"
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></td>
               </tr>
