@@ -115,6 +115,18 @@
 
 ##
 
+### Principais Repositórios:
+<div align="center">
+<a href="https://github.com/GustavoWustemberg/TreatImages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoWustemberg&repo=TreatImages&&theme=dark" />
+</a>
+<a href="https://github.com/GustavoWustemberg/InventoryManager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoWustemberg&repo=InventoryManager&&theme=dark" />
+</a>
+</div>
+
+##
+
 <p align="center">
 <img src='https://github-profile-trophy.vercel.app/?username=GustavoWustemberg&theme=onestar&no-bg=true'/>
 </p>
