@@ -1,6 +1,6 @@
 ## Olá! eu sou o Gustavo Wustemberg
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=238972&center=true&vCenter=true&width=1000&lines=Hello%2C+My+name+is+Gustavo+Wustemberg+;I'm+20+years+old;I'm+from+Brazil%2C+São+Paulo;Welcome!)](https://github.com/GustavoWustemberg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=238972&center=true&vCenter=true&width=1000&lines=Hello%2C+My+name+is+Gustavo+Wustemberg+;I'm+22+years+old;I'm+from+Brazil%2C+São+Paulo;Welcome!)](https://github.com/GustavoWustemberg)
 
 <div align="center">
   <a href="https://github.com/GustavoWustemberg">
